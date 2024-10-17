@@ -9,8 +9,8 @@ This simple application demonstrates how to implement Rate limiting for Express.
 4. Add it in the .env file UNKEY_ROOT_KEY
 
 # Prerequisites
-  Node
-  An unkey account and a root-key
+  1. Node
+  2. An unkey account and a root-key
 
 # Quickstart
 
